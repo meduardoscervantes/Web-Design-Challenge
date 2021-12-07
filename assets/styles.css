@@ -1,0 +1,13 @@
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: purple;
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+    color: #CBC3E3;
+    min-height: 80px;
+}
+body{
+    background-color: #CBC3E3;
+}
